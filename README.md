@@ -50,3 +50,6 @@ This project is open source and available under the MIT License.
 ---
 
 
+Have Questions?
+Feel free to open an issue or reach out at tundeoshodi99@gmail.com.
+
